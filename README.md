@@ -2,7 +2,7 @@
 
 #### Elementy:
 - Rejestracja
-- Logowania
+- Logowanie
 - Autoryzacja
 - Weryfikacja
 - Reset hasła
